@@ -1,0 +1,16 @@
+[2025-07-30 07:19:07] Error desde ::1: Token inválido o no autorizado.
+[2025-07-30 07:20:19] Error desde ::1: Ruta no encontrada: cliente/modificar
+[2025-07-30 07:20:21] Error desde ::1: Ruta no encontrada: cliente/modificar
+[2025-07-30 07:20:23] Error desde ::1: Ruta no encontrada: cliente/modificar
+[2025-07-30 07:20:25] Error desde ::1: Ruta no encontrada: cliente/modificar
+[2025-07-30 22:30:59] Error desde ::1: Rol desarrollador no tiene permiso para eliminar en cliente
+[2025-07-30 22:31:39] Error desde ::1: Rol desarrollador no tiene permiso para eliminar en cliente
+[2025-07-30 22:33:53] Error desde ::1: Token inválido o no autorizado.
+[2025-07-30 22:33:59] Error desde ::1: Token inválido o no autorizado.
+[2025-07-30 22:33:59] Error desde ::1: Token inválido o no autorizado.
+[2025-07-30 22:34:02] Error desde ::1: Token inválido o no autorizado.
+[2025-07-30 22:48:28] Error desde ::1: Rol supervisor no tiene permiso para crear en cliente
+[2025-07-30 22:48:32] Error desde ::1: Rol supervisor no tiene permiso para crear en cuenta
+[2025-07-30 22:48:48] Error desde ::1: Rol desarrollador no tiene permiso para crear en tarjeta
+[2025-07-30 22:50:13] Error desde ::1: Rol desarrollador no tiene permiso para crear en cliente
+[2025-07-30 22:50:23] Error desde ::1: Rol supervisor no tiene permiso para crear en cliente
